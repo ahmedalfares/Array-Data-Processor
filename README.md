@@ -1,5 +1,5 @@
 # Array-Data-Processor
-# Array-Data-Processor
+
 
 A modular **C-based** utility designed to process numerical arrays and extract fundamental statistics using functions.
 
